@@ -1,0 +1,27 @@
+.text-center{
+
+}
+/*.text-center div{*/
+/*    border: 2px solid #C0C0C0;*/
+/*}*/
+.others{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+.img{
+    height: 200px;
+    width: 200px;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+.img3{
+    height: 200px;
+    width: 200px;
+}
+
+.border{
+    border: 1px solid #cbccce;
+}
